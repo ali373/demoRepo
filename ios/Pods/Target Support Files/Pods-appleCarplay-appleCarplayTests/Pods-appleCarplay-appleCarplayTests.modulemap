@@ -1,0 +1,6 @@
+module Pods_appleCarplay_appleCarplayTests {
+  umbrella header "Pods-appleCarplay-appleCarplayTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
